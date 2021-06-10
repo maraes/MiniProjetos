@@ -1,0 +1,9 @@
+1 - Crie um diretorio X e um arquivo vazio dentro deste diretorio com o nome X
+2 - Use o Classificador para encontrar todas as ocorrencias em pastas e subpastas
+do nome X outro arquivo.
+O classificador vai coloca-lo no diretorio X já criado anteriormente.
+Lembre-se os arquivos estao sendo movidos e não copiados.
+
+
+Enjoy
+Userfull
